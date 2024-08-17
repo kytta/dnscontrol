@@ -31,7 +31,7 @@ var features = providers.DocumentationNotes{
 	providers.CanUseHTTPS:            providers.Can(),
 	providers.CanUseSVCB:             providers.Can(),
 	providers.CanUseDNSKEY:           providers.Can(),
-	providers.DocCreateDomains:       providers.Can(),
+	providers.DocCreateDomains:       providers.Cannot(),
 	providers.DocDualHost:            providers.Can(),
 	providers.DocOfficiallySupported: providers.Cannot(),
 }
