@@ -132,7 +132,7 @@ Jump to a table:
 | [`OVH`](ovh.md) | ❔ | ✅ | ❌ | ✅ |
 | [`PACKETFRAME`](packetframe.md) | ❔ | ❌ | ❌ | ❔ |
 | [`PORKBUN`](porkbun.md) | ✅ | ❌ | ❌ | ✅ |
-| [`POWERDNS`](powerdns.md) | ❔ | ✅ | ✅ | ✅ |
+| [`POWERDNS`](powerdns.md) | ❔ | ✅ | ❌ | ✅ |
 | [`REALTIMEREGISTER`](realtimeregister.md) | ❔ | ❌ | ✅ | ✅ |
 | [`ROUTE53`](route53.md) | ✅ | ✅ | ✅ | ✅ |
 | [`RWTH`](rwth.md) | ❔ | ❌ | ❌ | ✅ |
@@ -187,7 +187,7 @@ Jump to a table:
 | [`OVH`](ovh.md) | ❌ | ❔ | ❔ | ❌ | ❔ |
 | [`PACKETFRAME`](packetframe.md) | ❔ | ❔ | ❔ | ✅ | ❔ |
 | [`PORKBUN`](porkbun.md) | ✅ | ❔ | ❌ | ❌ | ❌ |
-| [`POWERDNS`](powerdns.md) | ✅ | ✅ | ❔ | ✅ | ✅ |
+| [`POWERDNS`](powerdns.md) | ✅ | ✅ | ❔ | ✅ | ❔ |
 | [`REALTIMEREGISTER`](realtimeregister.md) | ✅ | ❔ | ✅ | ❌ | ❌ |
 | [`ROUTE53`](route53.md) | ❌ | ❔ | ❌ | ✅ | ❔ |
 | [`RWTH`](rwth.md) | ❌ | ❔ | ❌ | ✅ | ❔ |
@@ -329,7 +329,7 @@ Jump to a table:
 | [`NS1`](ns1.md) | ✅ | ❔ | ✅ |
 | [`ORACLE`](oracle.md) | ❔ | ❔ | ❌ |
 | [`PORKBUN`](porkbun.md) | ❌ | ❔ | ❌ |
-| [`POWERDNS`](powerdns.md) | ✅ | ✅ | ✅ |
+| [`POWERDNS`](powerdns.md) | ❌ | ✅ | ✅ |
 | [`REALTIMEREGISTER`](realtimeregister.md) | ✅ | ❔ | ❌ |
 | [`SAKURACLOUD`](sakuracloud.md) | ❌ | ❌ | ❌ |
 | [`TRANSIP`](transip.md) | ❌ | ❌ | ❌ |
