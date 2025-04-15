@@ -32,6 +32,9 @@ func (dsp *powerdnsProvider) GetZoneRecords(domain string, meta map[string]strin
 
 	// loop over grouped records by type, called RRSet
 	for _, rrset := range zone.ResourceRecordSets {
+		if rrset.Type == "SOA" {
+			continue
+		}
 		// loop over single records of this group and create records
 		for _, pdnsRecord := range rrset.Records {
 			r, err := toRecordConfig(domain, pdnsRecord, rrset.TTL, rrset.Name, rrset.Type)
